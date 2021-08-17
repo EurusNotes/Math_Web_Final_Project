@@ -1,0 +1,50 @@
+html {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-size: 50px;
+  text-align: left;
+  font-family: 'TsukuARdGothic-Regular',sans-serif;
+}
+h5 {
+  font-size: 100px;
+  text-align: center;
+  font-family: 'TsukuARdGothic-Regular',sans-serif;
+}
+p, li {
+  font-size: 20px;
+  font-family: 'TsukuARdGothic-Regular',sans-serif;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: #001858;
+}
+
+
+html {
+  background-color: #fef6e4;
+}
+
+body {
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  background-color: #fef6e4;
+  padding: 0 20px 20px 20px;
+  border: 15px solid #8bd3dd;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #001858;
+}
+
+tr {
+  font-size: 20px;
+  text-align: left;
+  font-family: 'TsukuARdGothic-Regular',sans-serif;
+}
+
